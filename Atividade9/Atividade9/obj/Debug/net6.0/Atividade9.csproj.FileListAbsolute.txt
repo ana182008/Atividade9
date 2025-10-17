@@ -1,0 +1,15 @@
+D:\ana jullya\Atividade9\Atividade9\bin\Debug\net6.0\Atividade9.exe
+D:\ana jullya\Atividade9\Atividade9\bin\Debug\net6.0\Atividade9.deps.json
+D:\ana jullya\Atividade9\Atividade9\bin\Debug\net6.0\Atividade9.runtimeconfig.json
+D:\ana jullya\Atividade9\Atividade9\bin\Debug\net6.0\Atividade9.dll
+D:\ana jullya\Atividade9\Atividade9\bin\Debug\net6.0\Atividade9.pdb
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\Atividade9.csproj.AssemblyReference.cache
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\Atividade9.GeneratedMSBuildEditorConfig.editorconfig
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\Atividade9.AssemblyInfoInputs.cache
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\Atividade9.AssemblyInfo.cs
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\Atividade9.csproj.CoreCompileInputs.cache
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\Atividade9.dll
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\refint\Atividade9.dll
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\Atividade9.pdb
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\Atividade9.genruntimeconfig.cache
+D:\ana jullya\Atividade9\Atividade9\obj\Debug\net6.0\ref\Atividade9.dll
